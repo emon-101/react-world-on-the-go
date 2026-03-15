@@ -104,3 +104,23 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+button {
+  background: gray;
+  padding: 5px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+.country-visited {
+  background-color: lightgreen;
+}
+
+.visited-flags-container img {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
